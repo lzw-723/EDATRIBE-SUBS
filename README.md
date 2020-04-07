@@ -33,7 +33,7 @@ OneDirve：http://pan.edatribe.com
 | A015 | A Certain Scientific Railgun                                                                                        | 某科学超电磁炮                           | 48集 | 进行 |
 | A016 | Ouran High School Host Club                                                                                         | 樱兰高校男公关部                         | 26集 | 计划 |
 | A017 | Parasyte: The Maxim                                                                                                 | 寄生兽：生命的准则                       | 24集 | 进行 |
-| A018 | Charlotte                                                                                                           | 夏洛特                                   | 13集 | 计划 |
+| A018 | Charlotte                                                                                                           | 夏洛特                                   | 13集 | 进行 |
 | A019 | DARLING in the FRANXX                                                                                               |                                          | 24集 | 计划 |
 | A020 | Good Luck Girl!                                                                                                     | 贫乏神来了!                              | 13集 | 计划 |
 | A021 | Code Geass: Lelouch of the Rebellion                                                                                | 反逆的鲁鲁修                             | 50集 | 计划 |

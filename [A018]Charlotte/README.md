@@ -1,1 +1,9 @@
-【计划】生肉字幕，等待制作中，如果您决定制作此字幕，请将制作状态由“计划”修改为“进行”，并留下您的署名，以锁定此字幕，防止他人重复制作。字幕制作完成后可在此README文件写下制作感想。
+<!--
+ * @Author: your name
+ * @Date: 2020-04-07 10:50:46
+ * @LastEditTime: 2020-04-07 11:00:05
+ * @LastEditors: your name
+ * @Description: In User Settings Edit
+ * @FilePath: \字幕\EDATRIBE-SUBS\[A018]Charlotte\README.md
+ -->
+【进行】第一集完成 by lzw-723
